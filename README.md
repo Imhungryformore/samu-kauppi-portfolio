@@ -1,3 +1,3 @@
 Portfolio
 
-Site: https://samukauppi.github.io/samu-kauppi-portfolio/
+Site: https://imhungryformore.github.io/samu-kauppi-portfolio/
